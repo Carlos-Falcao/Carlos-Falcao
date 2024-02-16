@@ -1,5 +1,13 @@
 # Bem Vindo! 🙂
 ### Eu sou Carlos e atualmente estou no Ensino Médio, cursando técnico em Desenvolvimento de Sistemas.
+
+## Matérias:
+- Banco de dados;
+- Programação front-end;
+- Programação mobile;
+- Análise de Projetos e Sistemas;
+- Ciências da Computação.
+
 ### Sempre em busca de melhorar meu conhecimento &#129299;
 ### Planejo fazer faculdade de T.I.
 
