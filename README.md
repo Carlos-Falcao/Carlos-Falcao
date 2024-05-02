@@ -9,7 +9,7 @@
 - Ciências da Computação.
 
 ### Sempre em busca de melhorar meu conhecimento &#129299;
-### Planejo fazer faculdade de T.I.
+### Planejo fazer faculdade pela área do curso
 
  <img height="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
  <img height="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
